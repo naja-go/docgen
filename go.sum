@@ -1,0 +1,4 @@
+github.com/naja-go/gpflag v0.0.0-20261124172041-5611bc7d42cf h1:vAxfM8I6O6HFDQfhBdfZr8K5sPKLZ1948vHR+tfOwrA=
+github.com/naja-go/gpflag v0.0.0-20261124172041-5611bc7d42cf/go.mod h1:8fEAFR2OxkpVbbWb7wl9k9awkmsppUGHmNZRF9aBf6M=
+github.com/naja-go/naja v0.0.0-20261125162055-9ed435ddb253 h1:i/EuxeZWTi19xHlF/sDX9oBdtd0kxnoqxLTUZebmst4=
+github.com/naja-go/naja v0.0.0-20261125162055-9ed435ddb253/go.mod h1:4ABEqEhZR5vVmyOHWoy3AURAidj3kKv9pS21NH+12iE=
